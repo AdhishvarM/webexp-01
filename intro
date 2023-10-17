@@ -1,7 +1,33 @@
-echo "# webexp-01" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AdhishvarM/webexp-01.git
-git push -u origin main
+<html>
+	<head>
+		<title>WEB ENGINEERING</title>
+	</head>
+
+	<body bgcolor="lightblue">
+       		<h2> <i>VIRAT KHOLI</i></h2>
+		<p>Virat Kohli is an Indian international cricketer and the former captain of the Indian national cricket team. Widely regarded as one of the greatest batsmen in the history of the sport, he plays for Royal Challengers Bangalore in the IPL and Delhi in domestic cricket. Kohli holds numerous records in his career which includes scoring most runs in T20 internationals and IPL, fastest to reach 10,000 ODI runs. In 2020, the International Cricket Council named him the male cricketer of the decade. Kohli has also contributed to India's successes, including winning the 2011 World Cup and the 2013 Champions trophy.<br> He is among the only four Indian cricketers who has played 500 matches for India.<br>
+<h3>Awards won by him</h3>
+<ol>
+<li>Padma Shri
+2017</li>
+<li>Arjuna Award for Cricket
+2013</li>
+<li>Wisden Cricketers of the Year
+2019</li>
+<li>Sir Garfield Sobers Trophy
+2018</li>
+<li>ICC Men's ODI Cricketer of the Year
+2012</li>
+</ol>
+</p>
+	<imgsrc="file:///C:/Users/91759/Downloads/download.jpg"alt="download.jpg"width="25%"height="50%"><br><br><br>
+
+The more info and stats about Virat Kholi
+<pre>	<a href="https://www.cricbuzz.com/profiles/1413/virat-kohli"target="_blank"><b>google</b></a></pre>
+		
+	</body>
+
+
+<iframe src="https://sports.ndtv.com/cricket/players/967-virat-kohli-playerprofile"width="100%"height="50%"></iframe>
+	
+</html>
